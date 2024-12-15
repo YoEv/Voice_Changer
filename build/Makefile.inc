@@ -1,0 +1,5 @@
+-include libraries/Midi/build/Makefile.link
+-include libraries/Oscillator/build/Makefile.link
+-include libraries/Trill/build/Makefile.link
+-include libraries/math_neon/build/Makefile.link
+-include libraries/ne10/build/Makefile.link
