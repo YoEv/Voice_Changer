@@ -6,7 +6,6 @@ This repository contains the implementation of a **Voice-Changer and Effects Pro
 For detailed insights into the development and design, you can read the full thesis here:  
 [Thesis PDF](https://03f1e01a-c69a-4db6-ac02-775b26f3a83a.filesusr.com/ugd/87f27a_20e8783319144c2bb409478890312b07.pdf)
 
----
 
 ## Features
 - **Real-Time Audio Effects**: Supports multiple effects such as robotic voice, whisper, pitch shift (e.g., little girl, demon), echo, and alien voice.
@@ -14,7 +13,6 @@ For detailed insights into the development and design, you can read the full the
 - **Efficient Design**: Built on the Bela platform for sub-millisecond latency and high-quality sound processing.
 - **Versatility**: Applies to vocals, instruments, and synthesized audio inputs.
 
----
 
 ## How to Use
 
@@ -34,7 +32,6 @@ For detailed insights into the development and design, you can read the full the
 A live demonstration of the Voice-Changer system is available here:  
 [Voice-Changer Demo](https://evelyneehevler.wixsite.com/evelyneehevler/projects-6-1)
 
----
 
 ## System Highlights
 - **Core Technology**: 
@@ -49,14 +46,10 @@ A live demonstration of the Voice-Changer system is available here:
   - Alien Voice
 - **Applications**: Suitable for live performances, sound design, and creative audio experimentation.
 
----
-
 ## Future Directions
 This system demonstrates significant advancements in real-time audio manipulation. Future research may include:
 - Adaptive AI-based effects for enhanced interactivity.
 - Expanding compatibility to additional hardware and software platforms.
-
----
 
 For additional questions or collaboration opportunities, please feel free to reach out.
 
